@@ -1,0 +1,2 @@
+c:\users\dobringanev\documents\visual studio 2013\Projects\AppLoader\AppLoader\obj\Debug\AppLoader.njsprojResolveAssemblyReference.cache
+c:\users\dobringanev\documents\visual studio 2013\Projects\AppLoader\AppLoader\bin\Microsoft.NodejsTools.WebRole.dll
