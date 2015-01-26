@@ -6,11 +6,7 @@
         }
         return {};
     });
-      var db = 'http://localhost:1337/db/apps.js';
-            
-            require([db], function (apps) {
-                var data = apps;
-    });
+  
     var appScripts = ['js/AppTimeSliderDirective.js', 'js/AppTimeSliderController.js'];
 
     require(['dojo/ready', 'js/baseMapBootstrap.js'], function(ready, baseMapBootstrap) {
